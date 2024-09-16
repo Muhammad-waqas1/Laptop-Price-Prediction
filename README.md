@@ -1,4 +1,4 @@
-## Laptop-Price-Prediction
+## Laptop Price Prediction
 
 This repository contains the code and resources for a project aiming to predict laptop prices based on their specifications.
 
